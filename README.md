@@ -1,2 +1,0 @@
-# Firts-code-usman
-myfirscode
